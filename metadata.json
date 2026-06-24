@@ -1,0 +1,6 @@
+{
+  "name": "Iglesia Bautista Providencia",
+  "description": "Sitio web oficial de la Iglesia Bautista Providencia en Memphis, Tennessee - Una comunidad de fe que proclama el Evangelio de Jesucristo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
